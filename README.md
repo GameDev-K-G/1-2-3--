@@ -20,8 +20,7 @@
  
 ## ציור הממחיש את המשחק:
 
-![image](https://user-images.githubusercontent.com/58401645/226815163-7b354906-7ce2-4e00-a077-b0e63f400e36.png)
-
+![image](https://user-images.githubusercontent.com/58401645/226815544-bc3dc3ea-9d35-486e-9bc1-70ce0ccf668f.png)
 ## רכיבים רשמיים
 * קישור לקובץ רכיבי המשחק הרשמיים :
 [formal-elements.md](https://github.com/GameDev-K-G/1-2-3-/blob/main/formal-elements.md)
