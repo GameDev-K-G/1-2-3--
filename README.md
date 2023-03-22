@@ -24,7 +24,7 @@
 
 ## רכיבים רשמיים
 * קישור לקובץ רכיבי המשחק הרשמיים :
-[formal-elements.md](https://github.com/GameDev-K-G/1-2-3-דג מלוח/blob/main/formal-elements.md)
+[formal-elements.md](https://github.com/GameDev-K-G/1-2-3-/blob/main/formal-elements.md)
  
 ## תהנו :smiley:
 </div>
