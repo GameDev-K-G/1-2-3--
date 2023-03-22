@@ -20,7 +20,7 @@
  
 ## ציור הממחיש את המשחק:
 
-![image](https://user-images.githubusercontent.com/58401645/226780715-e9271322-e93e-4691-92e0-3981b66cc9db.png)
+![image](https://user-images.githubusercontent.com/58401645/226815163-7b354906-7ce2-4e00-a077-b0e63f400e36.png)
 
 ## רכיבים רשמיים
 * קישור לקובץ רכיבי המשחק הרשמיים :
